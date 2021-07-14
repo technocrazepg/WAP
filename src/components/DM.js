@@ -81,7 +81,7 @@ function DM(props) {
           <img src={midImg} alt="" />
           <div style={{ width: "70%" }}>
             <p style={{ fontSize: "2rem", fontWeight: "200", color: "gray" }}>
-              Keep your phone connected
+              Keeep your phone connected
             </p>
             <p style={{ fontWeight: "200", color: "gray" }}>
               WhatsApp connects to your phone to sync messages. To reduce data
